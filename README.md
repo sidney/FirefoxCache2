@@ -8,7 +8,7 @@ https://web.archive.org/web/20170714051649/http://encase-forensic-blog.guidances
 
 Written by [@sandersonforens](https://twitter.com/sandersonforens):<br>
 https://sqliteforensictoolkit.com/converting-the-new-firefox-cache2-files-to-an-sqlite-db-for-investigating/
-https://archive.vn/wip/ZKNUI (archive.today snapshot)
+https://archive.vn/ZKNUI (archive.today snapshot)
 
 
 
